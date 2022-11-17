@@ -3,7 +3,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start -p 9000",
+    "start": "next start",
     "analyze": "ANALYZE=true npm run build"
   },
   "dependencies": {
